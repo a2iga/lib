@@ -1,4 +1,4 @@
-package ru.rx1310.lib.a2iga;
+package com.github.a2iga.lib;
 
 public class A2IGA
 {
