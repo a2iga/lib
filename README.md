@@ -1,4 +1,4 @@
-# lib
+# lib (deprecated)
 
 [![Release](https://jitpack.io/v/a2iga/lib.svg)](https://jitpack.io/#a2iga/lib)
 
